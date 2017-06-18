@@ -1,0 +1,78 @@
+index.php
+
+Projetado para levar o trabalho em equipe a outro nível
+
+Compartilhe, sincronize e colabore com segurança
+O Dropbox Business é a solução segura para compartilhamento e armazenamento de arquivos que já conquistou os funcionários e a confiança dos administradores de TI.
+
+Faça uma avaliação grátis - 30 dias
+E-mail e Botão de envio (deve enviar o usuario para a próxima página com o endereço preenchido) - Guardar em localstorage com js
+
+-
+O Dropbox Business ajuda sua empresa a crescer sem limitações, mantendo com você o controle completo sobre informações empresariais importantes e sobre a atividade dos usuários.
+
+{
+#recursos
+
+img/melhor-forma-trabalhar-em-equipe.png
+
+A melhor forma de trabalhar em equipe
+
+Mais de 500 milhões de usuários adoram o Dropbox por seus recursos de colaboração e acesso a qualquer hora, de qualquer lugar. <a class="saiba-mais" href="#"> Saiba mais </a>
+}
+{
+
+img/performace-controle-uso-empresarial.png
+
+Performance e controles prontos para uso empresarial
+
+Cuide dos dados da empresa com os recursos abrangentes de segurança e administração. <a class="saiba-mais" href="#"> Saiba mais </a>
+}
+{
+
+img/dropbox-paper.png
+
+Dropbox Paper
+
+Uma maneira simples e poderosa de criar, compartilhar e manter sua equipe em sincronia — com o benefício adicional dos controles administrativos para proteger sua empresa. <a class="saiba-mais" href="#"> Saiba mais </a>
+
+}
+{
+img/seguro-e-confiavel.png
+
+Seguro e confiável
+
+Atendemos às necessidades de segurança, conformidade e privacidade de empresas como Hyatt, News Corp e National Geographic. <a class="saiba-mais" href="#"> Saiba mais </a>
+
+}
+
+-
+#quem-usa
+
+Seja uma das 200.000 empresas que usam o Dropbox Business
+
+lista de clientes
+
+-
+
+
+A melhor solução de compartilhamento e armazenamento de arquivos para sua empresa
+
+Valores (apenas plano Advanced)
+
+#vantagens
+
+Avaliação grátis - 30 dias [link p/ form]
+ou <a class="saiba-mais" href="#">compre agora</a>
+
+-
+
+====*****====
+
+form.php
+
+
+
+====*****====
+
+welcome.php
