@@ -78,7 +78,7 @@
                     <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
                     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_0c53f3f52748c8f0661c966fe_7a4e4001e2" tabindex="-1" value=""></div>
                       <div class="clear">
-                        <input type="submit" value="Faça uma avaliação grátis" name="subscribe" id="mc-embedded-subscribe" class="btn">
+                        <input type="submit" value="Avalie Grátis" name="subscribe" id="mc-embedded-subscribe" class="btn">
                       </div>
                     </div>
                 </form>
@@ -98,13 +98,13 @@
           
             <ul class="tab-menu" data-anime="scroll">
                 <li><a href="#trabalho-em-equipe" data-click="trabalho-em-equipe">Trabalho em Equipe</a></li>
-                <li><a href="#performace-controle" data-click="performace-controle">Performace e Controle</a></li>
+                <li><a href="#performace-controle" data-click="performace-controle">Performance</a></li>
                 <li><a href="#dropbox-paper" data-click="dropbox-paper">Dropbox Paper</a></li>
-                <li><a href="#seguro-e-confiavel" data-click="seguro-e-confiavel">Seguro e confiável</a></li>
+                <li><a href="#seguro-e-confiavel" data-click="seguro-e-confiavel">Segurança</a></li>
               
             </ul>
 
-            <div class="item" id="trabalho-em-equipe" data-target="Trabalho em equipe">
+            <div class="item" id="trabalho-em-equipe" data-target="trabalho-em-equipe">
                 <div class="item-img">
                     <img src="img/melhor-forma-trabalhar-em-equipe.png" alt="A melhor forma de trabalhar em equipe">
                 </div>
@@ -115,7 +115,7 @@
                 </div>
             </div>
 
-            <div class="item" id="performace-controle" data-target="Performace e Controle">
+            <div class="item" id="performace-controle" data-target="performace-controle">
                 <div class="item-img">
                     <img src="img/performace-controle-uso-empresarial.png" alt="performace e controle no uso empresarial">
                 </div>
@@ -128,7 +128,7 @@
                 </div>
             </div>
           
-            <div class="item" id="dropbox-paper" data-target="Dropbox Paper">
+            <div class="item" id="dropbox-paper" data-target="dropbox-paper">
                 <div class="item-img">
                     <img src="img/dropbox-paper.png" alt="Dropbox Paper">
                 </div>
@@ -141,7 +141,7 @@
                 </div>
             </div>
             
-            <div class="item" id="seguro-e-confiavel" data-target="Seguro e confiável">
+            <div class="item" id="seguro-e-confiavel" data-target="seguro-e-confiavel">
                 <div class="item-img">
                     <img src="img/seguro-e-confiavel.png" alt="Seguro e confiável">
                 </div>
